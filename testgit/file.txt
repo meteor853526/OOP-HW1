@@ -1,0 +1,2 @@
+mkdir 建立資料夾
+touch 建立其他東西像.txt檔案
